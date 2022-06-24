@@ -1,0 +1,19 @@
+.elementor-15 .elementor-element.elementor-element-8a14dac:not(.elementor-motion-effects-element-type-background), .elementor-15 .elementor-element.elementor-element-8a14dac > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("./../../2022/06/slider-it-management.jpg");background-size:cover;}.elementor-15 .elementor-element.elementor-element-8a14dac{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:-20px;margin-bottom:0px;padding:30px 0px 150px 0px;z-index:1;}.elementor-15 .elementor-element.elementor-element-8a14dac > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-15 .elementor-element.elementor-element-8a14dac > .elementor-shape-bottom .elementor-shape-fill{fill:#4376B1;}.elementor-15 .elementor-element.elementor-element-8a14dac > .elementor-shape-bottom svg{height:26px;}.elementor-bc-flex-widget .elementor-15 .elementor-element.elementor-element-60e3d6a.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-15 .elementor-element.elementor-element-60e3d6a.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-15 .elementor-element.elementor-element-60e3d6a.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-15 .elementor-element.elementor-element-74e9ccd{--grid-template-columns:repeat(0, auto);--icon-size:18px;--grid-column-gap:5px;--grid-row-gap:0px;}.elementor-15 .elementor-element.elementor-element-74e9ccd .elementor-widget-container{text-align:left;}.elementor-bc-flex-widget .elementor-15 .elementor-element.elementor-element-b413f37.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-15 .elementor-element.elementor-element-b413f37.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-15 .elementor-element.elementor-element-b413f37.elementor-column > .elementor-widget-wrap{justify-content:center;}@media(max-width:767px){.elementor-15 .elementor-element.elementor-element-74e9ccd .elementor-widget-container{text-align:center;}}@media(min-width:768px){.elementor-15 .elementor-element.elementor-element-86703d6{width:10.414%;}.elementor-15 .elementor-element.elementor-element-1ff5361{width:17.362%;}.elementor-15 .elementor-element.elementor-element-60e3d6a{width:47.224%;}}/* Start custom CSS for section, class: .elementor-element-8a14dac */body{
+    overflow-x:hidden;
+}
+.elementor-shape-bottom{
+    bottom: -1px;
+    animation: wave 5s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
+    width: 200%;
+}
+@keyframes wave{
+    0%{
+        margin-left: 0px;
+    }
+    50%{
+        margin-left: -200px;
+    }
+    100%{
+        margin-left: 0px;
+    }
+}/* End custom CSS */
